@@ -1,2 +1,1 @@
-Zw00000000t
-dsadsadsa
+echo "Hello world"
